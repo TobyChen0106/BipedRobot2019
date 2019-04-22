@@ -1,0 +1,8 @@
+prefix=/home/toby/biped_robot/ros/devel
+
+Name: xpp_msgs
+Description: Description of xpp_msgs
+Version: 1.0.10
+Cflags: -I/home/toby/biped_robot/ros/devel/include -I/home/toby/biped_robot/ros/src/xpp/xpp_msgs/include
+Libs: -L/home/toby/biped_robot/ros/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs sensor_msgs

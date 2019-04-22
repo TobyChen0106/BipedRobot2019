@@ -1,0 +1,2 @@
+my_biped_robot_description:my_biped_robot_sims:xpp/robots/xpp_hyq:xpp/robots/xpp_quadrotor:xpp/xpp:xpp/xpp_examples:xpp/xpp_msgs:xpp/xpp_states:xpp/xpp_vis
+-DCATKIN_DEVEL_PREFIX=/home/toby/biped_robot/ros/devel -DCMAKE_INSTALL_PREFIX=/home/toby/biped_robot/ros/install -G Unix Makefiles

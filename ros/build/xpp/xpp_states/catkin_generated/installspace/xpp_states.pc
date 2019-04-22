@@ -1,0 +1,8 @@
+prefix=/home/toby/biped_robot/ros/install
+
+Name: xpp_states
+Description: Description of xpp_states
+Version: 1.0.10
+Cflags: -I/home/toby/biped_robot/ros/install/include -I/usr/include/eigen3
+Libs: -L/home/toby/biped_robot/ros/install/lib -lxpp_states
+Requires: 
