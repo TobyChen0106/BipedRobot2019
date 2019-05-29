@@ -1,8 +1,0 @@
-prefix=/home/toby/biped_robot/ros/install
-
-Name: my_biped_robot_description
-Description: Description of my_biped_robot_description
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/toby/biped_robot/ros/install/lib 
-Requires: 

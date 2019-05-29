@@ -1,8 +1,0 @@
-prefix=/home/toby/biped_robot/ros/devel
-
-Name: xpp_states
-Description: Description of xpp_states
-Version: 1.0.10
-Cflags: -I/home/toby/biped_robot/ros/src/xpp/xpp_states/include -I/usr/include/eigen3
-Libs: -L/home/toby/biped_robot/ros/devel/lib -lxpp_states
-Requires: 

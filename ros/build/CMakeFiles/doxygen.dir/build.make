@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/toby/biped_robot/ros/src
+CMAKE_SOURCE_DIR = /home/toby/BipedRobot2019/ros/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/toby/biped_robot/ros/build
+CMAKE_BINARY_DIR = /home/toby/BipedRobot2019/ros/build
 
 # Utility rule file for doxygen.
 
@@ -67,6 +67,6 @@ CMakeFiles/doxygen.dir/clean:
 .PHONY : CMakeFiles/doxygen.dir/clean
 
 CMakeFiles/doxygen.dir/depend:
-	cd /home/toby/biped_robot/ros/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/toby/biped_robot/ros/src /home/toby/biped_robot/ros/src /home/toby/biped_robot/ros/build /home/toby/biped_robot/ros/build /home/toby/biped_robot/ros/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/toby/BipedRobot2019/ros/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/toby/BipedRobot2019/ros/src /home/toby/BipedRobot2019/ros/src /home/toby/BipedRobot2019/ros/build /home/toby/BipedRobot2019/ros/build /home/toby/BipedRobot2019/ros/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/doxygen.dir/depend
 

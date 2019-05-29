@@ -1,8 +1,8 @@
-# Install script for directory: /home/toby/biped_robot/ros/src/my_biped_robot_sims
+# Install script for directory: /home/toby/BipedRobot2019/ros/src/my_biped_robot_sims
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/toby/biped_robot/ros/install")
+  set(CMAKE_INSTALL_PREFIX "/home/toby/BipedRobot2019/ros/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/toby/biped_robot/ros/build/my_biped_robot_sims/catkin_generated/installspace/my_biped_robot_sims.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/toby/BipedRobot2019/ros/build/my_biped_robot_sims/catkin_generated/installspace/my_biped_robot_sims.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_biped_robot_sims/cmake" TYPE FILE FILES
-    "/home/toby/biped_robot/ros/build/my_biped_robot_sims/catkin_generated/installspace/my_biped_robot_simsConfig.cmake"
-    "/home/toby/biped_robot/ros/build/my_biped_robot_sims/catkin_generated/installspace/my_biped_robot_simsConfig-version.cmake"
+    "/home/toby/BipedRobot2019/ros/build/my_biped_robot_sims/catkin_generated/installspace/my_biped_robot_simsConfig.cmake"
+    "/home/toby/BipedRobot2019/ros/build/my_biped_robot_sims/catkin_generated/installspace/my_biped_robot_simsConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_biped_robot_sims" TYPE FILE FILES "/home/toby/biped_robot/ros/src/my_biped_robot_sims/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/my_biped_robot_sims" TYPE FILE FILES "/home/toby/BipedRobot2019/ros/src/my_biped_robot_sims/package.xml")
 endif()
 

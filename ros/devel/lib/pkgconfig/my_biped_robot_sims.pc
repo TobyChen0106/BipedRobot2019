@@ -1,8 +1,8 @@
-prefix=/home/toby/biped_robot/ros/devel
+prefix=/home/toby/BipedRobot2019/ros/devel
 
 Name: my_biped_robot_sims
 Description: Description of my_biped_robot_sims
 Version: 0.0.0
 Cflags: 
-Libs: -L/home/toby/biped_robot/ros/devel/lib 
+Libs: -L/home/toby/BipedRobot2019/ros/devel/lib 
 Requires: 

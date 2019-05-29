@@ -1,8 +1,0 @@
-prefix=/home/toby/biped_robot/ros/install
-
-Name: xpp_quadrotor
-Description: Description of xpp_quadrotor
-Version: 1.0.10
-Cflags: 
-Libs: -L/home/toby/biped_robot/ros/install/lib 
-Requires: 
